@@ -1,7 +1,7 @@
 package com.nod
 
 /**
-  * Created by Administrator on 2017/7/11.
+  * www.51nod.com 1081 子段求和.
   */
 object Solution1081 {
   def main(args: Array[String]): Unit = {
