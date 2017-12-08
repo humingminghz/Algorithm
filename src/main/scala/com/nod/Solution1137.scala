@@ -1,5 +1,8 @@
 package com.nod
 
+/**
+  * 1138 矩阵相乘
+  */
 object Solution1137 {
   def main(args: Array[String]): Unit = {
     val input = scala.io.Source.stdin.getLines()
